@@ -57,3 +57,6 @@ by these instructions. [Notices](NOTICE), [security](SECURITY.md).
 Separate projects: [Illama2](https://github.com/mkhomutskyi/illama2) for LLMs,
 [Speech on Arc](https://github.com/mkhomutskyi/speech-intel-arc) for TTS/STT.
 
+[OpenWebUI integration guide](https://github.com/mkhomutskyi/openwebui-local-ai-stack)
+connects chat, images and speech with persistent data and shared family access.
+
