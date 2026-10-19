@@ -1,0 +1,9 @@
+ComfyUI Intel Arc setup recipes
+Copyright 2026 mkhomutskyi
+
+Original repository scripts and documentation: Apache-2.0.
+ComfyUI (Comfy-Org/ComfyUI): GPL-3.0; not vendored here.
+Intel llm-scaler: upstream licenses apply to externally built components.
+PyTorch and other runtime dependencies retain their upstream licenses.
+Model checkpoints retain publisher licenses and are not distributed here.
+
